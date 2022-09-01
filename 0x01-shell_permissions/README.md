@@ -1,1 +1,1 @@
-command to change user
+howw to print user name
