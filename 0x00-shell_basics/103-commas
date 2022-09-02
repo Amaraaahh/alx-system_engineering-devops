@@ -1,1 +1,2 @@
-ls ampv
+#!/bin/bash
+ls -ampv
